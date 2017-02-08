@@ -169,4 +169,3 @@ var debug = {
         customDebugging = true;
     }
 }
-var wtf = {};
