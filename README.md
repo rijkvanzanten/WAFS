@@ -1,2 +1,1 @@
-# WAFS
-Webapp from scratch
+# week-1-webapp-from-scratch
